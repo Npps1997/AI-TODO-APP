@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic<2.9
+streamlit
+requests
+pandas
+langchain
+langchain-google-genai
+google-generativeai
+python-dotenv
+langchain-core
+passlib
+python-jose[cryptography]
+python-multipart
